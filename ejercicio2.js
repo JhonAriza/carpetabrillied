@@ -3,7 +3,7 @@ let edades = [12,25,55,55,66,8,9,77,99,45];
 edades.forEach(function(numero) {
     document.write("edad : "+numero+'<br>')
 });
-document.write("---------------------------------------------------------------------------------------"+'<br>')
+document.write("---------titulo------------------------------------------------------------------------------"+'<br>')
 
 
 let edad=prompt('ingrese edad')
